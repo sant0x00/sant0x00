@@ -41,6 +41,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg" height="40" width="52" alt="yarn logo"  />
 </div>
 
+###
+
+<img src="https://raw.githubusercontent.com/sant0x00/sant0x00/output/github-snake.svg" alt="snake animation" />
+
 ---
 
 :speech_balloon: Social Networks
