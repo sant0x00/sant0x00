@@ -1,8 +1,8 @@
 <div align="center">
   <h1>Hi, I'm João Pedro Araujo</h1>
-  <p>Software Engineer focused on backend engineering, cloud infrastructure, developer tooling, and application security.</p>
+  <p>João Pedro Araujo is a Software Engineer with 6+ years of experience across backend engineering, cloud infrastructure, developer tooling, and application security, with a strong foundation in network security vulnerability assessment.</p>
   <p>
-    <img src="https://img.shields.io/badge/Experience-5%2B%20Years-0f172a?style=for-the-badge" alt="Experience badge" />
+    <img src="https://img.shields.io/badge/Experience-6%2B%20Years-0f172a?style=for-the-badge" alt="Experience badge" />
     <img src="https://img.shields.io/badge/Focus-Backend%20%7C%20Cloud%20%7C%20Security-1d4ed8?style=for-the-badge" alt="Focus badge" />
     <img src="https://img.shields.io/badge/Open%20To-Engineering%20Challenges-059669?style=for-the-badge" alt="Open to badge" />
   </p>
@@ -19,7 +19,7 @@
 
 ## About Me
 
-I am a Software Engineer with 5+ years of experience building and maintaining systems across backend platforms, cloud environments, containers, and secure development workflows.
+I am a Software Engineer with 6+ years of experience building and maintaining systems across backend platforms, cloud environments, containers, and secure development workflows.
 
 My background is centered on designing APIs, maintaining production services, working with relational databases, automating delivery pipelines, and improving code quality with security-first practices.
 
